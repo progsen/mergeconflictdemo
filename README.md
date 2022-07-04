@@ -1,2 +1,0 @@
-# mergeconflictdemo21
-
